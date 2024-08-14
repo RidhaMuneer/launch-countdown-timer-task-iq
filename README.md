@@ -9,13 +9,13 @@ A project that demonstrates a fancy way to hook the user to a launch of a produc
 - [@RidhaMuneer](https://github.com/RidhaMuneer)
 
 ## Getting Started
-- First clone project by running:
+- First, clone project by running:
 
 ```bash
 git clone git@github.com:RidhaMuneer/launch-countdown-timer-task-iq.git
 ```
 
-- Second install the dependencies:
+- Second, install the dependencies:
 
 ```bash
 npm install
