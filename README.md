@@ -33,4 +33,6 @@ npm run dev
 
 ## Demo
 
-https://launch-countdown-timer-task-e8eancveg-redamoner00s-projects.vercel.app/
+On Vercel: https://launch-countdown-timer-task-e8eancveg-redamoner00s-projects.vercel.app/
+
+On Netlify: https://main--launch-countdown-timer-iq.netlify.app/
