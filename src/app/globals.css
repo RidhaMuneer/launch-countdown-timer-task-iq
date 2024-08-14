@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Text:wght@400;500;700&display=swap');
+
 :root {
   --max-width: 1100px;
   --border-radius: 12px;
@@ -9,6 +11,7 @@
   --background-start-rgb: 214, 219, 220;
   --background-end-rgb: 255, 255, 255;
 
+  font-family: 'Red Hat Text', sans-serif;
   --primary-glow: conic-gradient(
     from 180deg at 50% 50%,
     #16abff33 0deg,
@@ -38,6 +41,8 @@
   --callout-border-rgb: 172, 175, 176;
   --card-rgb: 180, 185, 188;
   --card-border-rgb: 131, 134, 135;
+  font-size: 14px;
+  font-weight: 700;
 }
 
 @media (prefers-color-scheme: dark) {
